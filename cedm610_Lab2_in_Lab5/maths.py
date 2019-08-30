@@ -40,3 +40,8 @@ def convert_base(num, n):
     new_num_string = remainder_string+new_num_string
     current = current/n
     return new_num_string
+
+def factorial(number):
+    pass
+    
+    
